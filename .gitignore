@@ -10,3 +10,9 @@ coverage/
 *.log
 .vercel/
 .turbo/
+
+# next.js
+/out/
+next-env.d.ts
+*.tsbuildinfo
+*.pem
